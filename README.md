@@ -17,7 +17,7 @@
 
 ## :desktop_computer: Project
 
-<strong>Up fi</strong> was created in [@Rocketseat](https://app.rocketseat.com.br/) Ignite's challenges course.
+<strong>Upfi</strong> was created in [@Rocketseat](https://app.rocketseat.com.br/) Ignite's challenges course.
 
 The purpose of creating this page is to deepen and practice knowledge. I was able to learn a lot about:
 
@@ -91,10 +91,10 @@ code .
 ```bash
 https://api.imgbb.com/
 ```
-6. Generate and copy you API key:
+6. Generate and copy your API key:
 ```bash
 Go to 'env.local' and put the generated number at the indicated spot.
-NEXT_PUBLIC_IMGBB_API_KEY=`YOUR GENERATED KEY HERE`
+NEXT_PUBLIC_IMGBB_API_KEY=YOUR GENERATED KEY HERE
 ```
 7. Go to the FaunaDB and create an database:
 ```bash
@@ -104,10 +104,10 @@ You can check how at: 'https://docs.fauna.com/fauna/current/start/index.html'
 
 <img alt="mockup" src="./public/faunaDB.png" width="50%">
 
-9. Then go to Security and generate and copy you API key:
+9. Then go to Security and generate & copy your API key:
 ```bash
 Go to 'env.local' and put the generated number at the indicated spot. 
-FAUNA_API_KEY=`YOUR GENERATED KEY HERE`
+FAUNA_API_KEY=YOUR GENERATED KEY HERE
 ```
 10. Access the generated address in your browser:
 ```bash
