@@ -37,7 +37,7 @@ The purpose of creating this page is to deepen and practice knowledge. I was abl
 
 ## :nail_care: Layout
 <p align="center">
-<img src="./public/gif.gif" width="50%"/>
+<img src="./public/gif.gif" width="auto"/>
 
 <h4 align="center">You can also check layout made by<a href="https://app.rocketseat.com.br/"> @Rocketseat</a> at<a href="https://www.figma.com/file/s1mzbCve4Bogvm9OB4xnds/Desafio-2-M%C3%B3dulo-4-ReactJS-(Copy)?node-id=0%3A1"> FIGMA</a>.</h4>
 
