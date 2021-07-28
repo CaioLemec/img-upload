@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="logo" title="Logotype" src="./public/logo.svg" width="40%" />
+    <img alt="logo" title="Logotype" src="./public/logo.svg" width="50%" />
 </h1>
 <br>
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- <img alt="mockup" src="./public/mockup.png" width="50%">
+ <img alt="mockup" src="./public/mockup.png" width="auto">
 </p>
 <hr>
 
@@ -102,7 +102,7 @@ You can check how at: 'https://docs.fauna.com/fauna/current/start/index.html'
 ```
 8. At your database, you need create and collection called: `images`
 
-<img alt="mockup" src="./public/faunaDB.png" width="50%">
+<img alt="mockup" src="./public/faunaDB.png" width="auto">
 
 9. Then go to Security and generate & copy your API key:
 ```bash
